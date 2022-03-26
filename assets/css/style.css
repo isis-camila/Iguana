@@ -1,0 +1,154 @@
+/* header */
+nav {
+    background-color: #000000;
+    padding: .2rem;
+    
+         
+}
+
+nav img {
+    width: 100%;
+}
+
+h1{
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+    font-size: 4em; 
+    letter-spacing: 1px;
+    text-align: left;  
+    margin-left: 530px;
+    background: #000000;
+}
+
+.img_header{
+    height: 727px;
+    top: 73px;
+    left: 0px;
+    opacity: 1;
+   
+}
+
+/* fin header */
+
+/* seccion I */
+
+.container_seccion{
+    background: #000000;
+    opacity: 1;
+       
+}
+
+.row1{
+    display: inline-flex;
+    
+}
+
+.col1{
+    width: 30%;
+    padding: 60px;
+}
+
+.col1 p{
+    width: 475px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    opacity: 1;
+    color: #ffffff;
+    text-align: left;
+    letter-spacing: 0px;
+    font-weight: 300;
+    /* margin-left: 30px; */
+   
+}
+
+.imagen2{
+    height: 15rem;
+    margin-left: 140px;
+}
+
+/* FIN SECCIÓN I */
+
+/* Seccion II */
+.icons{
+    background-color: #1E1A13;
+    width: auto;
+    padding-top: 35px;
+}
+
+.container_icons{
+    display: inline-flex;
+    padding-top: 25px;
+}
+
+.container_icons div{
+    padding-bottom: 60px;
+    padding-top: 30px ;
+}
+
+.container_icons a{
+    width: 39px;
+    height: 55px;
+    color: #ffffff;
+    margin-left: 270px;
+    padding-bottom: 10px;
+}
+
+.container_icons i{
+   font-size: 30px;
+   margin-left: .5rem;
+}
+
+.container_icons p{
+    margin-left: 230px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    text-decoration: none;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 465px;
+    opacity: 1;
+    color: #ffffff;
+}
+/* Fin Sección II */
+
+/* Sección III */
+
+.tresImgs{
+    background-color: #000000;
+    width: 84.6%;
+    display: inline-flex;
+    padding: 6rem;
+    margin-right: 2rem;
+}
+
+.tresImgs div{
+    margin-left: 0px;
+}
+
+.tresImgs img{
+    width: 316px;
+    height: 202px;
+    margin-left: .8rem;
+}
+
+/* Fin sección III */
+
+footer{
+    text-align: center;
+    color: #ffffff;
+    background-color: #1E1A13;
+    height: 45px;
+    padding-top: 40px;
+    left: 0px;
+}
+
+
+
+
+
+
+    
